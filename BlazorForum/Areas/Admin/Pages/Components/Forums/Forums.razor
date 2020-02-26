@@ -1,0 +1,56 @@
+﻿@page "/admin/forums"
+@inject IManageForums manageForums
+@inject IJSRuntime jsRuntime
+
+<header>
+    <h3>Forums</h3>
+</header>
+<section>
+    @if (_forums == null)
+    {
+        <div>Loading Forums...</div>
+    }
+    else if (_forums.Count == 0)
+    {
+        <div>No Forums Found.</div>
+    }
+    else
+    {
+        <ul class="forum-ul">
+            @foreach (var forum in _forums)
+            {
+                <li>
+                    <a href="@String.Format("/admin/forums/{0}", forum.ForumId)">
+                        @forum.Title
+                    </a>
+                </li>
+            }
+        </ul>
+    }
+</section>
+<section>
+    <AddNewForumForm OnForumCreated="UpdateForums"></AddNewForumForm>
+</section>
+
+@code {
+    private List<Models.Forum> _forums;
+
+    protected override async Task OnInitializedAsync()
+    {
+        _forums = await manageForums.GetForumsAsync();
+    }
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            await jsRuntime.InvokeVoidAsync("setDocTitle", "Forums | Administration");
+        }
+    }
+
+    public async void UpdateForums()
+    {
+        _forums = await manageForums.GetForumsAsync();
+        StateHasChanged();
+    }
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "outputFileName": "wwwroot/css/blazorforum-styles.min.css",
+    "inputFiles": [
+      "wwwroot/css/site.css"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/css/blazorforum-adminstyles.min.css",
+    "inputFiles": [
+      "wwwroot/css/admin.css"
+    ]
+  }
+]

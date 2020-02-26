@@ -1,0 +1,13 @@
+﻿@inject IBlazorModal IBlazorModal
+
+<div class="modal-body">
+    @ModalText
+</div>
+<div class="modal-footer">
+    <button class="mr-2 btn btn-danger" @onclick="(() => IBlazorModal.ConfirmYes())">Yes</button>
+    <button class="btn btn-secondary" @onclick="(() => IBlazorModal.Close())">Cancel</button>
+</div>
+
+@code {
+    [Parameter] public string ModalText { get; set; }
+}

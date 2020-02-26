@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\BlazorForum-master\BlazorForum.Domain\bin\Debug\netcoreapp3.1\BlazorForum.Domain.deps.json
+C:\Users\user\Desktop\BlazorForum-master\BlazorForum.Domain\bin\Debug\netcoreapp3.1\BlazorForum.Domain.dll
+C:\Users\user\Desktop\BlazorForum-master\BlazorForum.Domain\bin\Debug\netcoreapp3.1\BlazorForum.Domain.pdb
+C:\Users\user\Desktop\BlazorForum-master\BlazorForum.Domain\bin\Debug\netcoreapp3.1\BlazorForum.Data.dll
+C:\Users\user\Desktop\BlazorForum-master\BlazorForum.Domain\bin\Debug\netcoreapp3.1\BlazorForum.Models.dll
+C:\Users\user\Desktop\BlazorForum-master\BlazorForum.Domain\bin\Debug\netcoreapp3.1\BlazorForum.Data.pdb
+C:\Users\user\Desktop\BlazorForum-master\BlazorForum.Domain\bin\Debug\netcoreapp3.1\BlazorForum.Models.pdb
+C:\Users\user\Desktop\BlazorForum-master\BlazorForum.Domain\obj\Debug\netcoreapp3.1\BlazorForum.Domain.csprojAssemblyReference.cache
+C:\Users\user\Desktop\BlazorForum-master\BlazorForum.Domain\obj\Debug\netcoreapp3.1\BlazorForum.Domain.Resources.ErrorResources.resources
+C:\Users\user\Desktop\BlazorForum-master\BlazorForum.Domain\obj\Debug\netcoreapp3.1\BlazorForum.Domain.Resources.GeneralResources.resources
+C:\Users\user\Desktop\BlazorForum-master\BlazorForum.Domain\obj\Debug\netcoreapp3.1\BlazorForum.Domain.csproj.GenerateResource.cache
+C:\Users\user\Desktop\BlazorForum-master\BlazorForum.Domain\obj\Debug\netcoreapp3.1\BlazorForum.Domain.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\BlazorForum-master\BlazorForum.Domain\obj\Debug\netcoreapp3.1\BlazorForum.Domain.AssemblyInfo.cs
+C:\Users\user\Desktop\BlazorForum-master\BlazorForum.Domain\obj\Debug\netcoreapp3.1\BlazorForum.Domain.csproj.CopyComplete
+C:\Users\user\Desktop\BlazorForum-master\BlazorForum.Domain\obj\Debug\netcoreapp3.1\BlazorForum.Domain.dll
+C:\Users\user\Desktop\BlazorForum-master\BlazorForum.Domain\obj\Debug\netcoreapp3.1\BlazorForum.Domain.pdb

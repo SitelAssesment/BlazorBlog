@@ -1,0 +1,62 @@
+﻿@page "/admin/forums/{id:int}"
+@inject IManageForums manageForums
+@inject IManageForumCategories manageCategories
+
+<section class="mb-3">
+    <a href="@String.Format("/admin/forums/{0}/edit", id)" class="btn btn-blazorforum">Edit Details</a>
+</section>
+<section>
+    <header>
+        <h3>@forum.Title</h3>
+        <div class="forum-details">@forum.Description</div>
+    </header>
+    <section>
+        <header class="secondary-header">
+            <i class="oi oi-folder mr-2"></i>Categories
+        </header>
+        <ul class="forum-ul">
+            @if (categories == null)
+            {
+                <li><i class="oi oi-cog se-spin-icon"></i> Loading Categories...</li>
+            }
+            else if (categories.Count == 0)
+            {
+                <li>No Categories Found.</li>
+            }
+            else
+            {
+                foreach (var category in categories)
+                {
+                    <li>
+                        <a href="@String.Format("/admin/forums/{0}/categories/{1}",
+                          forum.ForumId, category.ForumCategoryId)">
+                            @category.Title
+                        </a>
+                    </li>
+                }
+            }
+
+        </ul>
+    </section>
+</section>
+<section>
+    <AddNewCategoryForm OnCategoryCreated="UpdateCategories" ForumId="@id"></AddNewCategoryForm>
+</section>
+
+@code {
+    [Parameter] public int id { get; set; }
+    private Models.Forum forum = new Models.Forum();
+    private List<Models.ForumCategory> categories = new List<Models.ForumCategory>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        forum = await manageForums.GetForumAsync(id);
+        categories = await manageCategories.GetForumCategoriesAsync(id);
+    }
+
+    public async void UpdateCategories()
+    {
+        categories = await manageCategories.GetForumCategoriesAsync();
+        StateHasChanged();
+    }
+}

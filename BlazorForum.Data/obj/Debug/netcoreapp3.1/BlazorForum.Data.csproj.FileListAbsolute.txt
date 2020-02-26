@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\BlazorForum-master\BlazorForum.Data\bin\Debug\netcoreapp3.1\BlazorForum.Data.deps.json
+C:\Users\user\Desktop\BlazorForum-master\BlazorForum.Data\bin\Debug\netcoreapp3.1\BlazorForum.Data.dll
+C:\Users\user\Desktop\BlazorForum-master\BlazorForum.Data\bin\Debug\netcoreapp3.1\BlazorForum.Data.pdb
+C:\Users\user\Desktop\BlazorForum-master\BlazorForum.Data\bin\Debug\netcoreapp3.1\BlazorForum.Models.dll
+C:\Users\user\Desktop\BlazorForum-master\BlazorForum.Data\bin\Debug\netcoreapp3.1\BlazorForum.Models.pdb
+C:\Users\user\Desktop\BlazorForum-master\BlazorForum.Data\obj\Debug\netcoreapp3.1\BlazorForum.Data.csprojAssemblyReference.cache
+C:\Users\user\Desktop\BlazorForum-master\BlazorForum.Data\obj\Debug\netcoreapp3.1\BlazorForum.Data.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\BlazorForum-master\BlazorForum.Data\obj\Debug\netcoreapp3.1\BlazorForum.Data.AssemblyInfo.cs
+C:\Users\user\Desktop\BlazorForum-master\BlazorForum.Data\obj\Debug\netcoreapp3.1\BlazorForum.Data.csproj.CopyComplete
+C:\Users\user\Desktop\BlazorForum-master\BlazorForum.Data\obj\Debug\netcoreapp3.1\BlazorForum.Data.dll
+C:\Users\user\Desktop\BlazorForum-master\BlazorForum.Data\obj\Debug\netcoreapp3.1\BlazorForum.Data.pdb

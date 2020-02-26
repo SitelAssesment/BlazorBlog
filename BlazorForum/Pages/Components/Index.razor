@@ -1,0 +1,33 @@
+﻿@page "/"
+@inject IJSRuntime JSRuntime
+@inject IManagePages managePages
+@inject Microsoft.Extensions.Configuration.IConfiguration config
+
+@if (_sitePage == null)
+{
+    <p>Loading...</p>
+}
+else
+{
+    <header>
+        <h1>@_sitePage.Title</h1>
+    </header>
+    <section>
+        @((MarkupString)_sitePage.MainContent)
+    </section>
+}
+
+
+@code{
+    private Models.SitePage _sitePage;
+
+    protected override async Task OnInitializedAsync()
+    {
+        _sitePage = await managePages.GetIndexPageAsync();
+    }
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        await JSRuntime.InvokeVoidAsync("setDocTitle", config.GetSection("SiteTitle").Value);
+    }
+}
