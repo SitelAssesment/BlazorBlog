@@ -1,26 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\BlazorForum-master\\BlazorForum\\BlazorForum.csproj": {}
+    "C:\\Users\\remio\\OneDrive\\Documents\\GitHub\\BlazorBlog\\BlazorForum\\BlazorForum.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\BlazorForum-master\\BlazorForum.Data\\BlazorForum.Data.csproj": {
+    "C:\\Users\\remio\\OneDrive\\Documents\\GitHub\\BlazorBlog\\BlazorForum.Data\\BlazorForum.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\BlazorForum-master\\BlazorForum.Data\\BlazorForum.Data.csproj",
+        "projectUniqueName": "C:\\Users\\remio\\OneDrive\\Documents\\GitHub\\BlazorBlog\\BlazorForum.Data\\BlazorForum.Data.csproj",
         "projectName": "BlazorForum.Data",
-        "projectPath": "C:\\Users\\user\\Desktop\\BlazorForum-master\\BlazorForum.Data\\BlazorForum.Data.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\BlazorForum-master\\BlazorForum.Data\\obj\\",
+        "projectPath": "C:\\Users\\remio\\OneDrive\\Documents\\GitHub\\BlazorBlog\\BlazorForum.Data\\BlazorForum.Data.csproj",
+        "packagesPath": "C:\\Users\\remio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\remio\\OneDrive\\Documents\\GitHub\\BlazorBlog\\BlazorForum.Data\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\remio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -32,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\BlazorForum-master\\BlazorForum.Models\\BlazorForum.Models.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\BlazorForum-master\\BlazorForum.Models\\BlazorForum.Models.csproj"
+              "C:\\Users\\remio\\OneDrive\\Documents\\GitHub\\BlazorBlog\\BlazorForum.Models\\BlazorForum.Models.csproj": {
+                "projectPath": "C:\\Users\\remio\\OneDrive\\Documents\\GitHub\\BlazorBlog\\BlazorForum.Models\\BlazorForum.Models.csproj"
               }
             }
           }
@@ -79,23 +74,18 @@
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\BlazorForum-master\\BlazorForum.Domain\\BlazorForum.Domain.csproj": {
+    "C:\\Users\\remio\\OneDrive\\Documents\\GitHub\\BlazorBlog\\BlazorForum.Domain\\BlazorForum.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\BlazorForum-master\\BlazorForum.Domain\\BlazorForum.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\remio\\OneDrive\\Documents\\GitHub\\BlazorBlog\\BlazorForum.Domain\\BlazorForum.Domain.csproj",
         "projectName": "BlazorForum.Domain",
-        "projectPath": "C:\\Users\\user\\Desktop\\BlazorForum-master\\BlazorForum.Domain\\BlazorForum.Domain.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\BlazorForum-master\\BlazorForum.Domain\\obj\\",
+        "projectPath": "C:\\Users\\remio\\OneDrive\\Documents\\GitHub\\BlazorBlog\\BlazorForum.Domain\\BlazorForum.Domain.csproj",
+        "packagesPath": "C:\\Users\\remio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\remio\\OneDrive\\Documents\\GitHub\\BlazorBlog\\BlazorForum.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\remio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -107,11 +97,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\BlazorForum-master\\BlazorForum.Data\\BlazorForum.Data.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\BlazorForum-master\\BlazorForum.Data\\BlazorForum.Data.csproj"
+              "C:\\Users\\remio\\OneDrive\\Documents\\GitHub\\BlazorBlog\\BlazorForum.Data\\BlazorForum.Data.csproj": {
+                "projectPath": "C:\\Users\\remio\\OneDrive\\Documents\\GitHub\\BlazorBlog\\BlazorForum.Data\\BlazorForum.Data.csproj"
               },
-              "C:\\Users\\user\\Desktop\\BlazorForum-master\\BlazorForum.Models\\BlazorForum.Models.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\BlazorForum-master\\BlazorForum.Models\\BlazorForum.Models.csproj"
+              "C:\\Users\\remio\\OneDrive\\Documents\\GitHub\\BlazorBlog\\BlazorForum.Models\\BlazorForum.Models.csproj": {
+                "projectPath": "C:\\Users\\remio\\OneDrive\\Documents\\GitHub\\BlazorBlog\\BlazorForum.Models\\BlazorForum.Models.csproj"
               }
             }
           }
@@ -168,23 +158,18 @@
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\BlazorForum-master\\BlazorForum.Models\\BlazorForum.Models.csproj": {
+    "C:\\Users\\remio\\OneDrive\\Documents\\GitHub\\BlazorBlog\\BlazorForum.Models\\BlazorForum.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\BlazorForum-master\\BlazorForum.Models\\BlazorForum.Models.csproj",
+        "projectUniqueName": "C:\\Users\\remio\\OneDrive\\Documents\\GitHub\\BlazorBlog\\BlazorForum.Models\\BlazorForum.Models.csproj",
         "projectName": "BlazorForum.Models",
-        "projectPath": "C:\\Users\\user\\Desktop\\BlazorForum-master\\BlazorForum.Models\\BlazorForum.Models.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\BlazorForum-master\\BlazorForum.Models\\obj\\",
+        "projectPath": "C:\\Users\\remio\\OneDrive\\Documents\\GitHub\\BlazorBlog\\BlazorForum.Models\\BlazorForum.Models.csproj",
+        "packagesPath": "C:\\Users\\remio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\remio\\OneDrive\\Documents\\GitHub\\BlazorBlog\\BlazorForum.Models\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\remio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -225,23 +210,18 @@
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\BlazorForum-master\\BlazorForum\\BlazorForum.csproj": {
+    "C:\\Users\\remio\\OneDrive\\Documents\\GitHub\\BlazorBlog\\BlazorForum\\BlazorForum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\BlazorForum-master\\BlazorForum\\BlazorForum.csproj",
+        "projectUniqueName": "C:\\Users\\remio\\OneDrive\\Documents\\GitHub\\BlazorBlog\\BlazorForum\\BlazorForum.csproj",
         "projectName": "BlazorForum",
-        "projectPath": "C:\\Users\\user\\Desktop\\BlazorForum-master\\BlazorForum\\BlazorForum.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\BlazorForum-master\\BlazorForum\\obj\\",
+        "projectPath": "C:\\Users\\remio\\OneDrive\\Documents\\GitHub\\BlazorBlog\\BlazorForum\\BlazorForum.csproj",
+        "packagesPath": "C:\\Users\\remio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\remio\\OneDrive\\Documents\\GitHub\\BlazorBlog\\BlazorForum\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\remio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -253,14 +233,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\BlazorForum-master\\BlazorForum.Data\\BlazorForum.Data.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\BlazorForum-master\\BlazorForum.Data\\BlazorForum.Data.csproj"
+              "C:\\Users\\remio\\OneDrive\\Documents\\GitHub\\BlazorBlog\\BlazorForum.Data\\BlazorForum.Data.csproj": {
+                "projectPath": "C:\\Users\\remio\\OneDrive\\Documents\\GitHub\\BlazorBlog\\BlazorForum.Data\\BlazorForum.Data.csproj"
               },
-              "C:\\Users\\user\\Desktop\\BlazorForum-master\\BlazorForum.Domain\\BlazorForum.Domain.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\BlazorForum-master\\BlazorForum.Domain\\BlazorForum.Domain.csproj"
+              "C:\\Users\\remio\\OneDrive\\Documents\\GitHub\\BlazorBlog\\BlazorForum.Domain\\BlazorForum.Domain.csproj": {
+                "projectPath": "C:\\Users\\remio\\OneDrive\\Documents\\GitHub\\BlazorBlog\\BlazorForum.Domain\\BlazorForum.Domain.csproj"
               },
-              "C:\\Users\\user\\Desktop\\BlazorForum-master\\BlazorForum.Models\\BlazorForum.Models.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\BlazorForum-master\\BlazorForum.Models\\BlazorForum.Models.csproj"
+              "C:\\Users\\remio\\OneDrive\\Documents\\GitHub\\BlazorBlog\\BlazorForum.Models\\BlazorForum.Models.csproj": {
+                "projectPath": "C:\\Users\\remio\\OneDrive\\Documents\\GitHub\\BlazorBlog\\BlazorForum.Models\\BlazorForum.Models.csproj"
               }
             }
           }

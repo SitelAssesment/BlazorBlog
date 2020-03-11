@@ -6,3 +6,11 @@ C:\Users\user\Desktop\BlazorForum-master\BlazorForum.Models\obj\Debug\netcoreapp
 C:\Users\user\Desktop\BlazorForum-master\BlazorForum.Models\obj\Debug\netcoreapp3.1\BlazorForum.Models.AssemblyInfo.cs
 C:\Users\user\Desktop\BlazorForum-master\BlazorForum.Models\obj\Debug\netcoreapp3.1\BlazorForum.Models.dll
 C:\Users\user\Desktop\BlazorForum-master\BlazorForum.Models\obj\Debug\netcoreapp3.1\BlazorForum.Models.pdb
+C:\Users\remio\OneDrive\Documents\GitHub\BlazorBlog\BlazorForum.Models\bin\Debug\netcoreapp3.1\BlazorForum.Models.deps.json
+C:\Users\remio\OneDrive\Documents\GitHub\BlazorBlog\BlazorForum.Models\bin\Debug\netcoreapp3.1\BlazorForum.Models.dll
+C:\Users\remio\OneDrive\Documents\GitHub\BlazorBlog\BlazorForum.Models\bin\Debug\netcoreapp3.1\BlazorForum.Models.pdb
+C:\Users\remio\OneDrive\Documents\GitHub\BlazorBlog\BlazorForum.Models\obj\Debug\netcoreapp3.1\BlazorForum.Models.csprojAssemblyReference.cache
+C:\Users\remio\OneDrive\Documents\GitHub\BlazorBlog\BlazorForum.Models\obj\Debug\netcoreapp3.1\BlazorForum.Models.AssemblyInfoInputs.cache
+C:\Users\remio\OneDrive\Documents\GitHub\BlazorBlog\BlazorForum.Models\obj\Debug\netcoreapp3.1\BlazorForum.Models.AssemblyInfo.cs
+C:\Users\remio\OneDrive\Documents\GitHub\BlazorBlog\BlazorForum.Models\obj\Debug\netcoreapp3.1\BlazorForum.Models.dll
+C:\Users\remio\OneDrive\Documents\GitHub\BlazorBlog\BlazorForum.Models\obj\Debug\netcoreapp3.1\BlazorForum.Models.pdb
